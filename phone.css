@@ -1,0 +1,56 @@
+/*navbar*/
+#logo img {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+#logo{
+    font-size: 1.2rem;
+}
+
+#navbar ul {
+    display: flex;
+    list-style: none;
+    margin: 25px;
+}
+
+#navbar ul li a {
+    margin: 5px;
+    font-size: 0.8rem;
+}    
+
+
+/*container*/
+#container{
+    width: 66%;
+}
+
+.h-primary{
+    font-size: 1.4rem;
+}
+
+.songitem img{
+    margin: 0px 5px;
+    width: 25px;
+    height: 25px;
+}
+
+.songName{
+    font-weight: lighter;
+    font-size: 11px;
+}
+
+.timestamp{
+    margin: 0px 5px;
+    font-size: 10px;
+}
+
+.timestamp i{
+    margin-left: 2px;
+}
+
+
+/*Bottom*/
+#masterSongName{
+    font-size: 10px;
+}
